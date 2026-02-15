@@ -5,8 +5,28 @@
     background-color: red;
 }
 
+#flex-menu{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+#flex-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    background-color: yellow;
+}
+
+#tema {
+    display: flex;
+    justify-content: center;
+}
 #adams{
     justify-content: center;
-    padding: 20px;
+    margin-left: 560px;
 }
 
