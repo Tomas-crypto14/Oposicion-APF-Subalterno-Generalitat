@@ -1,0 +1,12 @@
+#flex-global{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: red;
+}
+
+#adams{
+    justify-content: center;
+    padding: 20px;
+}
+
