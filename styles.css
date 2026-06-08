@@ -5,6 +5,18 @@
     background-color: red;
 }
 
+.subrayado-rojo{
+    background-color: red;
+}
+
+.subrayado-azul{
+    background-color: blue;
+}
+
+.subrayado-verde{
+    background-color: green;
+}
+
 #flex-menu{
     display: flex;
     justify-content: center;
